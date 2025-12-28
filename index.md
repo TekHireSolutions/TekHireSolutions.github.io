@@ -1,4 +1,6 @@
-## Engineering Documentation Portal
+---
+title: Engineering Documentation Portal
+---
 
 Welcome to the **official engineering documentation** for the **Tek Hire Solutions ATS Platform**.
 
